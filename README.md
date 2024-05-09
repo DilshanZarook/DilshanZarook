@@ -1,4 +1,3 @@
-<img width="563" alt="Screenshot 2024-05-09 at 1 14 11 PM" src="https://github.com/DilshanZarook/DilshanZarook/assets/129732701/9a279b1b-498e-4e72-97b4-0b71d4b66617">
 <h1 align="center">Hey 👋, I'm Dilshan Zarook</h1>
 <h3 align="center">I'm passionate about Front end & Backend.</h3>
 
